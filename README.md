@@ -184,4 +184,4 @@ vels.html:
 ![alt text](55.png)
 
 ## RESULT
-the Program for implementing image map using HTML is executed successfully.
+The Program for implementing image map using HTML is executed successfully.
