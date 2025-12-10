@@ -176,12 +176,14 @@ vels.html:
 ```
 
 ## OUTPUT
-![alt text](1.png)
-![alt text](11.png)
-![alt text](33.png)
-![alt text](22.png)
-![alt text](44.png)
-![alt text](55.png)
+<img width="1155" height="763" alt="22" src="https://github.com/user-attachments/assets/a594c6f9-b718-4537-b920-efa1e11354fa" />
+<img width="1239" height="725" alt="33" src="https://github.com/user-attachments/assets/6ff1e140-6943-44de-a48a-fb62ba73900d" />
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/9d345b56-b7fd-43de-9391-80bd107de7b7" />
+<img width="1155" height="763" alt="22" src="https://github.com/user-attachments/assets/b3138959-23cb-498b-963f-d1967ef349ac" />
+
+<img width="1278" height="712" alt="44" src="https://github.com/user-attachments/assets/00fff6cf-c8fe-413a-bc42-e00e369901ae" />
+<img width="1172" height="716" alt="55" src="https://github.com/user-attachments/assets/57ba90c9-9ad0-490b-a027-1956b223a9ca" />
 
 ## RESULT
 The Program for implementing image map using HTML is executed successfully.
